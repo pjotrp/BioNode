@@ -1,0 +1,5 @@
+26-03-2011  BioNode Release 0.90
+
+  * Pilot release 0.90 - Minimalistic Debian Squeeze VM
+  * Downloadable bionode-i386-0.90.vdi for VirtualBox Debian Squeeze i386
+  * Release for Amazon EC2 ami-027a896b
