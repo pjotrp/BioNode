@@ -1,0 +1,5 @@
+These repository contains the BioNode scripts. BioNode is a Debian
+based VM for Bioinformatics, which can be deployed on a local network
+and in the Cloud.
+
+See http://biobeat.org/bionode
